@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DiegoWojak
+- 👋 Hi, I’m @DiegoLA
 - 👀 I’m interested in 2D/3D Game Development, Artistical Techniques, Backend solutions, Marketing tools & more.
 - 🌱 I’m currently learning Webxr,VR with js, Shader Programming.
 - 💞️ I’m looking to collaborate on game programming ideas.

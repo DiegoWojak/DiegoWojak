@@ -9,6 +9,9 @@ This are some finished projects that i can share some informations only by email
 - 📫 btw you can send me a message to diegolujanalvarado@gmail.com
 
 Note: In this repository, I am unable to share specific modifications made to the applications I've developed. However, you can explore the original inspirations, which are adaptable to Built-in, URP, and WebGL. Feel free to reach out via email if you'd like to discuss any related work.
+
+Gamejam profile:
+https://chaloso123.itch.io/
 <!---
 DiegoWojak/DiegoWojak is a ✨ special ✨ repository because reasons (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

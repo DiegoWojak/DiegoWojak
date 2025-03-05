@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiegoLA
 - 👀 I’m interested in 2D/3D Game Development, Artistical Techniques, Backend solutions, Marketing tools & more.
-- 🌱 I’m currently revisiting Webxr,VR with js, AR, Shader Programming.
+- 🌱 I’m currently Unity Developer, revisiting webxr,VR with js, AR, Shader Programming, Socket.io Developer.
 - 💞️ I’m looking to collaborate on game programming ideas.
 This are some finished projects that i can share some informations only by emails.
 "Some games I had been working as Developer for:

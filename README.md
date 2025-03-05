@@ -13,7 +13,8 @@ Gamejam profile:
 https://chaloso123.itch.io/
 
 Shre links(Try on PC)
-<a href= "https://vite-foliov02.vercel.app/"> I'm fortunate you believe in a dream </a>
+
+<a href= "https://vite-foliov02.vercel.app/"> I'm fortunate you believe in a dream </a></br>
 <a href= "https://simplefolio-omega-gilt.vercel.app/"> This orphanage we call a ghetto is quite a routine </a>
 <!---
 DiegoWojak/DiegoWojak is a ✨ special ✨ repository because reasons (this file) appears on your GitHub profile.

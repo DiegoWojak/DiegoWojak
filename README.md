@@ -12,8 +12,9 @@ Note: In this repository, I am unable to share specific modifications made to th
 Gamejam profile:
 https://chaloso123.itch.io/
 
-Porfolio:
-<a href= "https://vite-foliov02.vercel.app/"> Mah Folio </a>
+Shre links(Try on PC)
+<a href= "https://vite-foliov02.vercel.app/"> I'm fortunate you believe in a dream </a>
+<a href= "https://simplefolio-omega-gilt.vercel.app/"> This orphanage we call a ghetto is quite a routine </a>
 <!---
 DiegoWojak/DiegoWojak is a ✨ special ✨ repository because reasons (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

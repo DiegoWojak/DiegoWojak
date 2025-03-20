@@ -17,8 +17,8 @@ https://chaloso123.itch.io/
 
 links(Try on PC)
 
-<a href= "https://vite-foliov02.vercel.app/"> only html/css/js </a></br>
-<a href= "https://simplefolio-omega-gilt.vercel.app/"> same but using vite </a>
+<a href= "https://vite-foliov02.vercel.app/"> same but using vite </a> </br>
+<a href= "https://simplefolio-omega-gilt.vercel.app/"> only html/css/js </a>
 <!---
 DiegoWojak/DiegoWojak is a ✨ special ✨ repository because reasons (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

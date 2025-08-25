@@ -5,7 +5,7 @@ Passionate about Game Dev (2D/3D) & Backend Tools
 ```
 ## 👑 Main Focus
 🎮 Game Development (Unity) | PC/Android/iOS/Web </br>
-🧠 Artistical Code • Automation • Tools • Backend
+🧠 Artistical Code • Automation • Tools • Backend </br>
 🏗️ Web App Fullstack
 
 ## 🛠️ Tech Stack

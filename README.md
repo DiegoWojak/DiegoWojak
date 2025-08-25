@@ -4,8 +4,9 @@ Fullstack • Unity • API • Shaders • Sockets Dev
 Passionate about Game Dev (2D/3D) & Backend Tools
 ```
 ## 👑 Main Focus
-🎮 Game Development (Unity) </br>
+🎮 Game Development (Unity) | PC/Android/iOS/Web </br>
 🧠 Artistical Code • Automation • Tools • Backend
+🏗️ Web App Fullstack
 
 ## 🛠️ Tech Stack
 | **Backend**              | **Frontend**                              | **Game Dev** |

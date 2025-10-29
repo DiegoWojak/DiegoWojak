@@ -21,10 +21,10 @@ Passionate about Game Dev (2D/3D) & Backend Tools
 | ------------------------ |
 | Git, Linux, Bash, OpenCV |
 
-
 💬 Let’s build something clever together! 🦧
 
-
+**Game Jam enthusiast? Explore my contributions:** 👻
+[216 Last-Hope](https://oni-the-demon.itch.io/216-last-hope) • [Neon-peaks](https://chaloso123.itch.io/neon-peaks) 👻
 
 <!---
 DiegoWojak/DiegoWojak is a ✨ special ✨ repository because reasons (this file) appears on your GitHub profile.

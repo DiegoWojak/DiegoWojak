@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Diego Lujan
 ```
 Fullstack • Unity • API • Shaders • Sockets Dev
-Passionate about Game Dev (2D/3D) & Backend Tools
+Passionate about GFX, Game deving & Backend Designs
 ```
 ## 👑 Main Focus
 🎮 Game Development (Unity) | PC/Android/iOS/Web </br>
